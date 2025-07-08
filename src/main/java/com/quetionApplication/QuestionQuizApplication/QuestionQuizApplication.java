@@ -12,6 +12,5 @@ public class QuestionQuizApplication {
 		SpringApplication.run(QuestionQuizApplication.class, args);
 		System.out.println("Question Quiz Application is running successfully");
 	}
-	
 
 }
