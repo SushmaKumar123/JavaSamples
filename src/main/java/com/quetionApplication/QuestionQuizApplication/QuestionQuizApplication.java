@@ -11,6 +11,10 @@ public class QuestionQuizApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(QuestionQuizApplication.class, args);
 		System.out.println("Question Quiz Application is running successfully");
+		System.out.println("Question Quiz Application is running successfully");
+		System.out.println("Push form feature branch to local");
+
+
 
 	}
 
